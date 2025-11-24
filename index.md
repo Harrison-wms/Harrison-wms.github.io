@@ -49,11 +49,11 @@ analog behavior, embedded computation, and physical electronics.
 
 ---
 
-### 🔋 1. High-Voltage Li-Ion Battery Packs (8s4p → 12s8p)
+### 🔋 1. High-Voltage Li-Ion Battery Packs (10s3p → 12s8p)
 **Skills:** nickel strip layout, spot welding, BMS wiring, fuse selection, safety design, enclosure integration  
 **Tools:** Spot welder, soldering station, 3D printing, multimeter,  CAD
 
-Built multiple custom lithium-ion battery packs ranging from 8s4p to 12s8p using 18650 and 21700 cells.  
+Built multiple custom lithium-ion battery packs ranging from 10s3p to 12s8p using 18650 and 21700 cells.  
 Parallel groups were welded using nickel strip, and high-current series wiring was sized to handle elevated discharge currents safely.
 
 Each pack included:
