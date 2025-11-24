@@ -161,11 +161,10 @@ Converted the printer into a diode-laser engraver by repurposing PWM fan outputs
 
 ## Upcoming Projects
 
-### ⚡ VESC Repair & Gate-Driver Replacement (Winter 2024–2025)
+### ⚡ VESC Repair & Gate-Driver Replacement (Winter 2025)
 Diagnosing and restoring damaged VESC motor controllers, including:
 - DRV gate-driver SMD removal and replacement  
 - Hot-air reflow and inspection  
-- Phase current sensing validation  
 - Firmware recovery and SWD reflashing via ST-LINK  
 
 This project will document common VESC failure modes and practical repair techniques for high-power ESCs.
